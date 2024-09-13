@@ -1,0 +1,6 @@
+torch==1.13.1
+sentencepiece==0.1.99
+timm==0.6.5
+ftfy
+regex
+pandas
