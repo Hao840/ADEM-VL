@@ -17,7 +17,7 @@ pip install -r requirements.txt
 ```
 **Data Preparation**
 
-**the data preparation instruction is borrowed from [LaVIN](https://github.com/luogen1996/LaVIN/tree/main)*.
+*the data preparation instruction is borrowed from [LaVIN](https://github.com/luogen1996/LaVIN/tree/main)*.
 
 - For ScienceQA, please prepare the dataset from the [official repo](https://github.com/lupantech/ScienceQA).
 - For Multimodal Chatbot, download the images in _train2014_ split from [MSCOCO](http://images.cocodataset.org/zips/train2014.zip), and obtain the prepared 52k text-only and 158k text-image instruction-following data from [here](https://drive.google.com/file/d/1gORDPruqwXbgy6NYmhpDXO7t089yzsg3/view?usp=share_link).
