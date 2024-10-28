@@ -1,6 +1,6 @@
 # ADEM-VL
 
-Official code of paper: ADEM-VL: Adaptive and Embedded Fusion for Efficient Vision-Language Tuning.
+Official code of paper: [ADEM-VL: Adaptive and Embedded Fusion for Efficient Vision-Language Tuning](https://www.arxiv.org/pdf/2410.17779).
 
 Zhiwei Hao, Jianyuan Guo, Li Shen, Yong Luo, Han Hu*, Yonggang Wen
 
@@ -120,7 +120,15 @@ Evaluation on more tasks can be achieved in a similar way as MME based on tookit
 ## Citation
 If you find this work helpful, please cite our paper:
 ```BibTeX
-coming soon
+@misc{hao2024ademvladaptiveembeddedfusion,
+      title={ADEM-VL: Adaptive and Embedded Fusion for Efficient Vision-Language Tuning}, 
+      author={Zhiwei Hao and Jianyuan Guo and Li Shen and Yong Luo and Han Hu and Yonggang Wen},
+      year={2024},
+      eprint={2410.17779},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2410.17779}, 
+}
 ```
 
 ## Acknowledgement
